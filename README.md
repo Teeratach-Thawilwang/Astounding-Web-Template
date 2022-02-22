@@ -3,10 +3,12 @@
 ## To practice mobile responsive
 
 ### Desktop mode
-![Desktop max-width](./Result/Desktop.jpg)
+![Desktop preview](./Result/Desktop.jpg)
 
 ### Tablet mode
-![Tablet max-width](./Result/Tablet-iPad.jpg)
+![Tablet preview](./Result/Tablet-iPad.jpg)
 
 ### Mobile mode
-![Mobile max-width](./Result/Mobil-iPhone-X.jpg)
+![Mobile preview](./Result/Mobil-iPhone-X.jpg)
+
+![Mobile-toggle preview](./Result/Mobil-iPhone-X-Toggle.jpg)
