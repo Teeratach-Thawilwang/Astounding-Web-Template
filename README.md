@@ -9,4 +9,4 @@
 ![Tablet max-width](./Result/Tablet-iPad.jpg)
 
 ### Mobile mode
-![Mobile max-width](./Result/Mobil-iPhone X.jpg)
+![Mobile max-width](./Result/Mobil-iPhone-X.jpg)
